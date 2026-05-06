@@ -1,0 +1,7 @@
+﻿source_1,source_2,axe,description,criticite
+PROJ731_IDU : CM = 0h (maquette),PROJ731_IDU : séance(s) CM référencée(s) (graphe de dépendances),types_seances,PROJ731_IDU : la maquette déclare 0h de CM mais ce type de séance est référencé dans le graphe de dépendances.,majeur
+PROJ731_IDU : TP = 0h (maquette),PROJ731_IDU : séance(s) TP référencée(s) (graphe de dépendances),types_seances,PROJ731_IDU : la maquette déclare 0h de TP mais ce type de séance est référencé dans le graphe de dépendances.,majeur
+DATA732_IDU : TP = 0h (maquette),DATA732_IDU : séance(s) TP référencée(s) (graphe de dépendances),types_seances,DATA732_IDU : la maquette déclare 0h de TP mais ce type de séance est référencé dans le graphe de dépendances.,majeur
+INFO734_IDU : TP = 0h (maquette),INFO734_IDU : séance(s) TP référencée(s) (graphe de dépendances),types_seances,INFO734_IDU : la maquette déclare 0h de TP mais ce type de séance est référencé dans le graphe de dépendances.,majeur
+DATA831_IDU : TD = 0h (maquette),DATA831_IDU : 3 séance(s) TD planifiée(s) (ADE),types_seances,DATA831_IDU : la maquette déclare 0h de TD mais 3 séance(s) TD sont planifiées dans ADE.,majeur
+PROJ832_IDU : TP = 0h (maquette),PROJ832_IDU : 4 séance(s) TP planifiée(s) (ADE),types_seances,PROJ832_IDU : la maquette déclare 0h de TP mais 4 séance(s) TP sont planifiées dans ADE.,majeur

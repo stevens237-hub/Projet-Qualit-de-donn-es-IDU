@@ -13,7 +13,7 @@ class BaseMetric(ABC):
     def run(self, data: dict) -> pd.DataFrame:
         """Run the audit and return a DataFrame of anomalies.
 
-        The returned DataFrame must have columns: module, source, axe, description, criticite.
+        The returned DataFrame must have columns: source_1, source_2, axe, description, criticite.
         criticite values: "bloquant" | "majeur" | "mineur"
         """
         ...

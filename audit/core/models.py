@@ -2,12 +2,12 @@ from typing import Literal, TypedDict
 
 Criticite = Literal["bloquant", "majeur", "mineur"]
 
-ANOMALY_COLUMNS = ["module", "source", "axe", "description", "criticite"]
+ANOMALY_COLUMNS = ["source_1", "source_2", "axe", "description", "criticite"]
 
 
 class AnomalyRecord(TypedDict):
-    module: str
-    source: str
+    source_1: str
+    source_2: str
     axe: str
     description: str
     criticite: Criticite

@@ -1,0 +1,309 @@
+{
+  "generated_at": "2026-05-06T01:20:50.881895+00:00",
+  "metric": "coherence",
+  "axe": "sequence_chronologie",
+  "total": 43,
+  "anomalies": [
+    {
+      "source_1": "INFO731_IDU : CM n°6 -> TD n°4 (graphe de dépendances)",
+      "source_2": "INFO731_IDU : CM n°6 (2025-12-01) après TD n°4 (2025-10-23) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO731_IDU : le graphe exige que CM n°6 précède TD n°4, mais dans ADE CM n°6 se déroule après TD n°4 (2025-12-01 vs 2025-10-23).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO731_IDU : CM n°5 -> TD n°3 (graphe de dépendances)",
+      "source_2": "INFO731_IDU : CM n°5 (2025-11-24) après TD n°3 (2025-10-15) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO731_IDU : le graphe exige que CM n°5 précède TD n°3, mais dans ADE CM n°5 se déroule après TD n°3 (2025-11-24 vs 2025-10-15).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO731_IDU : CM n°4 -> TD n°2 (graphe de dépendances)",
+      "source_2": "INFO731_IDU : CM n°4 (2025-11-10) après TD n°2 (2025-10-10) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO731_IDU : le graphe exige que CM n°4 précède TD n°2, mais dans ADE CM n°4 se déroule après TD n°2 (2025-11-10 vs 2025-10-10).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA731_IDU : CM n°6 -> TP n°3 (graphe de dépendances)",
+      "source_2": "DATA731_IDU : CM n°6 (2025-12-17) après TP n°3 (2025-11-20) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "DATA731_IDU : le graphe exige que CM n°6 précède TP n°3, mais dans ADE CM n°6 se déroule après TP n°3 (2025-12-17 vs 2025-11-20).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA731_IDU : CM n°3 -> TP n°1 (graphe de dépendances)",
+      "source_2": "DATA731_IDU : CM n°3 (2025-11-17) après TP n°1 (2025-11-05) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "DATA731_IDU : le graphe exige que CM n°3 précède TP n°1, mais dans ADE CM n°3 se déroule après TP n°1 (2025-11-17 vs 2025-11-05).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO932_IDU : CM n°4 -> TD n°2 (graphe de dépendances)",
+      "source_2": "INFO932_IDU : CM n°4 (2026-01-29) après TD n°2 (2025-12-17) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO932_IDU : le graphe exige que CM n°4 précède TD n°2, mais dans ADE CM n°4 se déroule après TD n°2 (2026-01-29 vs 2025-12-17).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO932_IDU : CM n°3 -> TP n°2 (graphe de dépendances)",
+      "source_2": "INFO932_IDU : CM n°3 (2025-12-17) après TP n°2 (2025-12-15) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO932_IDU : le graphe exige que CM n°3 précède TP n°2, mais dans ADE CM n°3 se déroule après TP n°2 (2025-12-17 vs 2025-12-15).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO931_IDU : CM n°2 -> TD n°1 (graphe de dépendances)",
+      "source_2": "INFO931_IDU : CM n°2 (2025-10-13) après TD n°1 (2025-09-29) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO931_IDU : le graphe exige que CM n°2 précède TD n°1, mais dans ADE CM n°2 se déroule après TD n°1 (2025-10-13 vs 2025-09-29).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO833_IDU : CM n°7 -> TD n°7 (graphe de dépendances)",
+      "source_2": "INFO833_IDU : CM n°7 (2026-03-31) après TD n°7 (2026-03-24) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO833_IDU : le graphe exige que CM n°7 précède TD n°7, mais dans ADE CM n°7 se déroule après TD n°7 (2026-03-31 vs 2026-03-24).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO833_IDU : CM n°6 -> TD n°6 (graphe de dépendances)",
+      "source_2": "INFO833_IDU : CM n°6 (2026-03-19) après TD n°6 (2026-03-17) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO833_IDU : le graphe exige que CM n°6 précède TD n°6, mais dans ADE CM n°6 se déroule après TD n°6 (2026-03-19 vs 2026-03-17).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO831_IDU : CM n°4 -> TD n°4 (graphe de dépendances)",
+      "source_2": "INFO831_IDU : CM n°4 (2026-02-26) après TD n°4 (2026-02-13) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO831_IDU : le graphe exige que CM n°4 précède TD n°4, mais dans ADE CM n°4 se déroule après TD n°4 (2026-02-26 vs 2026-02-13).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO831_IDU : CM n°3 -> TD n°3 (graphe de dépendances)",
+      "source_2": "INFO831_IDU : CM n°3 (2026-02-11) après TD n°3 (2026-02-04) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO831_IDU : le graphe exige que CM n°3 précède TD n°3, mais dans ADE CM n°3 se déroule après TD n°3 (2026-02-11 vs 2026-02-04).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO831_IDU : CM n°2 -> TD n°2 (graphe de dépendances)",
+      "source_2": "INFO831_IDU : CM n°2 (2026-02-04) après TD n°2 (2026-01-26) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO831_IDU : le graphe exige que CM n°2 précède TD n°2, mais dans ADE CM n°2 se déroule après TD n°2 (2026-02-04 vs 2026-01-26).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO831_IDU : CM n°1 -> TD n°1 (graphe de dépendances)",
+      "source_2": "INFO831_IDU : CM n°1 (2026-01-26) après TD n°1 (2026-01-23) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO831_IDU : le graphe exige que CM n°1 précède TD n°1, mais dans ADE CM n°1 se déroule après TD n°1 (2026-01-26 vs 2026-01-23).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA832_IDU : CM n°3 -> TD n°2 (graphe de dépendances)",
+      "source_2": "DATA832_IDU : CM n°3 (2026-03-16) après TD n°2 (2026-03-11) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "DATA832_IDU : le graphe exige que CM n°3 précède TD n°2, mais dans ADE CM n°3 se déroule après TD n°2 (2026-03-16 vs 2026-03-11).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA832_IDU : CM n°2 -> TD n°1 (graphe de dépendances)",
+      "source_2": "DATA832_IDU : CM n°2 (2026-03-11) après TD n°1 (2026-03-04) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "DATA832_IDU : le graphe exige que CM n°2 précède TD n°1, mais dans ADE CM n°2 se déroule après TD n°1 (2026-03-11 vs 2026-03-04).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC631_IDU : TD n°6 -> CM n°7 (graphe de dépendances)",
+      "source_2": "ISOC631_IDU : TD n°6 (2026-05-12) après CM n°7 (2026-05-04) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "ISOC631_IDU : le graphe exige que TD n°6 précède CM n°7, mais dans ADE TD n°6 se déroule après CM n°7 (2026-05-12 vs 2026-05-04).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC631_IDU : TD n°5 -> CM n°6 (graphe de dépendances)",
+      "source_2": "ISOC631_IDU : TD n°5 (2026-05-05) après CM n°6 (2026-04-29) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "ISOC631_IDU : le graphe exige que TD n°5 précède CM n°6, mais dans ADE TD n°5 se déroule après CM n°6 (2026-05-05 vs 2026-04-29).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC631_IDU : TD n°4 -> TP n°1 (graphe de dépendances)",
+      "source_2": "ISOC631_IDU : TD n°4 (2026-04-29) après TP n°1 (2026-04-21) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "ISOC631_IDU : le graphe exige que TD n°4 précède TP n°1, mais dans ADE TD n°4 se déroule après TP n°1 (2026-04-29 vs 2026-04-21).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC631_IDU : TD n°3 -> CM n°4 (graphe de dépendances)",
+      "source_2": "ISOC631_IDU : TD n°3 (2026-04-20) après CM n°4 (2026-04-13) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "ISOC631_IDU : le graphe exige que TD n°3 précède CM n°4, mais dans ADE TD n°3 se déroule après CM n°4 (2026-04-20 vs 2026-04-13).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO632_IDU : TD n°4 -> CM n°5 (graphe de dépendances)",
+      "source_2": "INFO632_IDU : TD n°4 (2026-04-22) après CM n°5 (2026-04-20) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO632_IDU : le graphe exige que TD n°4 précède CM n°5, mais dans ADE TD n°4 se déroule après CM n°5 (2026-04-22 vs 2026-04-20).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO632_IDU : TD n°3 -> TP n°1 (graphe de dépendances)",
+      "source_2": "INFO632_IDU : TD n°3 (2026-04-13) après TP n°1 (2026-03-31) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO632_IDU : le graphe exige que TD n°3 précède TP n°1, mais dans ADE TD n°3 se déroule après TP n°1 (2026-04-13 vs 2026-03-31).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO632_IDU : TD n°2 -> CM n°3 (graphe de dépendances)",
+      "source_2": "INFO632_IDU : TD n°2 (2026-03-30) après CM n°3 (2026-02-27) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO632_IDU : le graphe exige que TD n°2 précède CM n°3, mais dans ADE TD n°2 se déroule après CM n°3 (2026-03-30 vs 2026-02-27).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO632_IDU : TD n°1 -> CM n°2 (graphe de dépendances)",
+      "source_2": "INFO632_IDU : TD n°1 (2026-03-17) après CM n°2 (2026-02-12) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO632_IDU : le graphe exige que TD n°1 précède CM n°2, mais dans ADE TD n°1 se déroule après CM n°2 (2026-03-17 vs 2026-02-12).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA732_IDU : TD n°4 -> CM n°6 (graphe de dépendances)",
+      "source_2": "DATA732_IDU : TD n°4 (2025-10-24) après CM n°6 (2025-10-20) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "DATA732_IDU : le graphe exige que TD n°4 précède CM n°6, mais dans ADE TD n°4 se déroule après CM n°6 (2025-10-24 vs 2025-10-20).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA732_IDU : TD n°3 -> CM n°5 (graphe de dépendances)",
+      "source_2": "DATA732_IDU : TD n°3 (2025-10-16) après CM n°5 (2025-10-13) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "DATA732_IDU : le graphe exige que TD n°3 précède CM n°5, mais dans ADE TD n°3 se déroule après CM n°5 (2025-10-16 vs 2025-10-13).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO732_IDU : TD n°3 -> CM n°4 (graphe de dépendances)",
+      "source_2": "INFO732_IDU : TD n°3 (2025-11-19) après CM n°4 (2025-11-18) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO732_IDU : le graphe exige que TD n°3 précède CM n°4, mais dans ADE TD n°3 se déroule après CM n°4 (2025-11-19 vs 2025-11-18).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO732_IDU : TD n°2 -> CM n°3 (graphe de dépendances)",
+      "source_2": "INFO732_IDU : TD n°2 (2025-11-12) après CM n°3 (2025-11-10) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO732_IDU : le graphe exige que TD n°2 précède CM n°3, mais dans ADE TD n°2 se déroule après CM n°3 (2025-11-12 vs 2025-11-10).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO732_IDU : TD n°1 -> CM n°2 (graphe de dépendances)",
+      "source_2": "INFO732_IDU : TD n°1 (2025-11-07) après CM n°2 (2025-11-06) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO732_IDU : le graphe exige que TD n°1 précède CM n°2, mais dans ADE TD n°1 se déroule après CM n°2 (2025-11-07 vs 2025-11-06).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC931_IDU : TD n°3 -> TP n°1 (graphe de dépendances)",
+      "source_2": "ISOC931_IDU : TD n°3 (2026-01-28) après TP n°1 (2025-12-18) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "ISOC931_IDU : le graphe exige que TD n°3 précède TP n°1, mais dans ADE TD n°3 se déroule après TP n°1 (2026-01-28 vs 2025-12-18).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA931_IDU : TD n°4 -> TP n°2 (graphe de dépendances)",
+      "source_2": "DATA931_IDU : TD n°4 (2026-01-28) après TP n°2 (2025-12-05) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "DATA931_IDU : le graphe exige que TD n°4 précède TP n°2, mais dans ADE TD n°4 se déroule après TP n°2 (2026-01-28 vs 2025-12-05).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA931_IDU : TD n°2 -> TP n°1 (graphe de dépendances)",
+      "source_2": "DATA931_IDU : TD n°2 (2025-12-01) après TP n°1 (2025-10-10) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "DATA931_IDU : le graphe exige que TD n°2 précède TP n°1, mais dans ADE TD n°2 se déroule après TP n°1 (2025-12-01 vs 2025-10-10).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO931_IDU : TD n°2 -> TP n°1 (graphe de dépendances)",
+      "source_2": "INFO931_IDU : TD n°2 (2025-10-13) après TP n°1 (2025-10-02) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO931_IDU : le graphe exige que TD n°2 précède TP n°1, mais dans ADE TD n°2 se déroule après TP n°1 (2025-10-13 vs 2025-10-02).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO833_IDU : TD n°9 -> TP n°1 (graphe de dépendances)",
+      "source_2": "INFO833_IDU : TD n°9 (2026-04-14) après TP n°1 (2026-04-02) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO833_IDU : le graphe exige que TD n°9 précède TP n°1, mais dans ADE TD n°9 se déroule après TP n°1 (2026-04-14 vs 2026-04-02).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO833_IDU : TD n°3 -> CM n°3 (graphe de dépendances)",
+      "source_2": "INFO833_IDU : TD n°3 (2026-02-23) après CM n°3 (2026-02-13) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO833_IDU : le graphe exige que TD n°3 précède CM n°3, mais dans ADE TD n°3 se déroule après CM n°3 (2026-02-23 vs 2026-02-13).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO833_IDU : TD n°2 -> CM n°2 (graphe de dépendances)",
+      "source_2": "INFO833_IDU : TD n°2 (2026-02-06) après CM n°2 (2026-02-03) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO833_IDU : le graphe exige que TD n°2 précède CM n°2, mais dans ADE TD n°2 se déroule après CM n°2 (2026-02-06 vs 2026-02-03).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC631_IDU : TP n°1 -> CM n°5 (graphe de dépendances)",
+      "source_2": "ISOC631_IDU : TP n°1 (2026-04-21) après CM n°5 (2026-04-20) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "ISOC631_IDU : le graphe exige que TP n°1 précède CM n°5, mais dans ADE TP n°1 se déroule après CM n°5 (2026-04-21 vs 2026-04-20).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO632_IDU : TP n°1 -> CM n°4 (graphe de dépendances)",
+      "source_2": "INFO632_IDU : TP n°1 (2026-03-31) après CM n°4 (2026-03-23) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO632_IDU : le graphe exige que TP n°1 précède CM n°4, mais dans ADE TP n°1 se déroule après CM n°4 (2026-03-31 vs 2026-03-23).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC931_IDU : TP n°3 -> CM n°3 (graphe de dépendances)",
+      "source_2": "ISOC931_IDU : TP n°3 (2026-02-13) après CM n°3 (2026-01-27) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "ISOC931_IDU : le graphe exige que TP n°3 précède CM n°3, mais dans ADE TP n°3 se déroule après CM n°3 (2026-02-13 vs 2026-01-27).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO932_IDU : TP n°4 -> TD n°3 (graphe de dépendances)",
+      "source_2": "INFO932_IDU : TP n°4 (2026-02-05) après TD n°3 (2026-01-26) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO932_IDU : le graphe exige que TP n°4 précède TD n°3, mais dans ADE TP n°4 se déroule après TD n°3 (2026-02-05 vs 2026-01-26).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO834_IDU : TP n°3 -> CM n°5 (graphe de dépendances)",
+      "source_2": "INFO834_IDU : TP n°3 (2026-04-01) après CM n°5 (2026-03-11) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO834_IDU : le graphe exige que TP n°3 précède CM n°5, mais dans ADE TP n°3 se déroule après CM n°5 (2026-04-01 vs 2026-03-11).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO834_IDU : TP n°2 -> CM n°3 (graphe de dépendances)",
+      "source_2": "INFO834_IDU : TP n°2 (2026-03-27) après CM n°3 (2026-02-26) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO834_IDU : le graphe exige que TP n°2 précède CM n°3, mais dans ADE TP n°2 se déroule après CM n°3 (2026-03-27 vs 2026-02-26).",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO831_IDU : TP n°1 -> CM n°3 (graphe de dépendances)",
+      "source_2": "INFO831_IDU : TP n°1 (2026-03-06) après CM n°3 (2026-02-11) (ADE)",
+      "axe": "sequence_chronologie",
+      "description": "INFO831_IDU : le graphe exige que TP n°1 précède CM n°3, mais dans ADE TP n°1 se déroule après CM n°3 (2026-03-06 vs 2026-02-11).",
+      "criticite": "majeur"
+    }
+  ]
+}

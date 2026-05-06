@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-05-06T01:20:50.881895+00:00",
+  "metric": "coherence",
+  "axe": "types_seances",
+  "total": 6,
+  "anomalies": [
+    {
+      "source_1": "PROJ731_IDU : CM = 0h (maquette)",
+      "source_2": "PROJ731_IDU : séance(s) CM référencée(s) (graphe de dépendances)",
+      "axe": "types_seances",
+      "description": "PROJ731_IDU : la maquette déclare 0h de CM mais ce type de séance est référencé dans le graphe de dépendances.",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "PROJ731_IDU : TP = 0h (maquette)",
+      "source_2": "PROJ731_IDU : séance(s) TP référencée(s) (graphe de dépendances)",
+      "axe": "types_seances",
+      "description": "PROJ731_IDU : la maquette déclare 0h de TP mais ce type de séance est référencé dans le graphe de dépendances.",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA732_IDU : TP = 0h (maquette)",
+      "source_2": "DATA732_IDU : séance(s) TP référencée(s) (graphe de dépendances)",
+      "axe": "types_seances",
+      "description": "DATA732_IDU : la maquette déclare 0h de TP mais ce type de séance est référencé dans le graphe de dépendances.",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO734_IDU : TP = 0h (maquette)",
+      "source_2": "INFO734_IDU : séance(s) TP référencée(s) (graphe de dépendances)",
+      "axe": "types_seances",
+      "description": "INFO734_IDU : la maquette déclare 0h de TP mais ce type de séance est référencé dans le graphe de dépendances.",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA831_IDU : TD = 0h (maquette)",
+      "source_2": "DATA831_IDU : 3 séance(s) TD planifiée(s) (ADE)",
+      "axe": "types_seances",
+      "description": "DATA831_IDU : la maquette déclare 0h de TD mais 3 séance(s) TD sont planifiées dans ADE.",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "PROJ832_IDU : TP = 0h (maquette)",
+      "source_2": "PROJ832_IDU : 4 séance(s) TP planifiée(s) (ADE)",
+      "axe": "types_seances",
+      "description": "PROJ832_IDU : la maquette déclare 0h de TP mais 4 séance(s) TP sont planifiées dans ADE.",
+      "criticite": "majeur"
+    }
+  ]
+}

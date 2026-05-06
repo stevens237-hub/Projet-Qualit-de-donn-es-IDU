@@ -1,0 +1,1156 @@
+{
+  "generated_at": "2026-05-06T01:20:50.881895+00:00",
+  "metric": "coherence",
+  "axe": "normalisation_codes",
+  "total": 164,
+  "anomalies": [
+    {
+      "source_1": "PROJ531_CM",
+      "source_2": "PROJ531_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'PROJ531' est nommé 'PROJ531_CM' dans ADE au lieu de 'PROJ531_IDU_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA832_INGE_TD",
+      "source_2": "DATA832_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'DATA832' est nommé 'DATA832_INGE_TD' dans ADE au lieu de 'DATA832_IDU_INGE_TD' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_P03_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_P03_G1' dans ADE au lieu de 'INFO633_IDU_P03_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "PROJ932_TP",
+      "source_2": "PROJ932_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'PROJ932' est nommé 'PROJ932_TP' dans ADE au lieu de 'PROJ932_IDU_TP' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC831_Sopra_Urba_Archi",
+      "source_2": "ISOC831_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC831' est nommé 'ISOC831_Sopra_Urba_Archi' dans ADE au lieu de 'ISOC831_IDU_Sopra_Urba_Archi' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO631_INGE_TDG",
+      "source_2": "INFO631_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO631' est nommé 'INFO631_INGE_TDG' dans ADE au lieu de 'INFO631_IDU_INGE_TDG' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC631_INGE_TPG1",
+      "source_2": "ISOC631_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC631' est nommé 'ISOC631_INGE_TPG1' dans ADE au lieu de 'ISOC631_IDU_INGE_TPG1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A10_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A10_G2' dans ADE au lieu de 'INFO633_IDU_A10_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO502_Ex",
+      "source_2": "INFO502_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO502' est nommé 'INFO502_Ex' dans ADE au lieu de 'INFO502_IDU_Ex' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO833_INGE_CM",
+      "source_2": "INFO833_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO833' est nommé 'INFO833_INGE_CM' dans ADE au lieu de 'INFO833_IDU_INGE_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC731_INGE_CM",
+      "source_2": "ISOC731_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC731' est nommé 'ISOC731_INGE_CM' dans ADE au lieu de 'ISOC731_IDU_INGE_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO734_INGE_CM",
+      "source_2": "INFO734_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO734' est nommé 'INFO734_INGE_CM' dans ADE au lieu de 'INFO734_IDU_INGE_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO731_INGE_Proj",
+      "source_2": "INFO731_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO731' est nommé 'INFO731_INGE_Proj' dans ADE au lieu de 'INFO731_IDU_INGE_Proj' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO731_INGE_TDTP",
+      "source_2": "INFO731_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO731' est nommé 'INFO731_INGE_TDTP' dans ADE au lieu de 'INFO731_IDU_INGE_TDTP' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO734_INGE_Proj",
+      "source_2": "INFO734_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO734' est nommé 'INFO734_INGE_Proj' dans ADE au lieu de 'INFO734_IDU_INGE_Proj' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "PROJ932_Intro",
+      "source_2": "PROJ932_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'PROJ932' est nommé 'PROJ932_Intro' dans ADE au lieu de 'PROJ932_IDU_Intro' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A06_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A06_G1' dans ADE au lieu de 'INFO633_IDU_A06_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO832_INGE_TD",
+      "source_2": "INFO832_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO832' est nommé 'INFO832_INGE_TD' dans ADE au lieu de 'INFO832_IDU_INGE_TD' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO501_ET_2emeSession",
+      "source_2": "INFO501_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO501' est nommé 'INFO501_ET_2emeSession' dans ADE au lieu de 'INFO501_IDU_ET_2emeSession' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A07_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A07_G2' dans ADE au lieu de 'INFO633_IDU_A07_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A15_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A15_G2' dans ADE au lieu de 'INFO633_IDU_A15_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA731_INGE_TP1",
+      "source_2": "DATA731_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'DATA731' est nommé 'DATA731_INGE_TP1' dans ADE au lieu de 'DATA731_IDU_INGE_TP1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO631_INGE_TPG1",
+      "source_2": "INFO631_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO631' est nommé 'INFO631_INGE_TPG1' dans ADE au lieu de 'INFO631_IDU_INGE_TPG1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO832_INGE_TP1",
+      "source_2": "INFO832_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO832' est nommé 'INFO832_INGE_TP1' dans ADE au lieu de 'INFO832_IDU_INGE_TP1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "MATH531_TPG2",
+      "source_2": "MATH531_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'MATH531' est nommé 'MATH531_TPG2' dans ADE au lieu de 'MATH531_IDU_TPG2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_CC1_Tiers-temps",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_CC1_Tiers-temps' dans ADE au lieu de 'INFO633_IDU_CC1_Tiers-temps' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A08_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A08_G2' dans ADE au lieu de 'INFO633_IDU_A08_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A01_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A01_G2' dans ADE au lieu de 'INFO633_IDU_A01_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO632_INGE_TPG2",
+      "source_2": "INFO632_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO632' est nommé 'INFO632_INGE_TPG2' dans ADE au lieu de 'INFO632_IDU_INGE_TPG2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "PROJ632_INGE_TDG_8_2h",
+      "source_2": "PROJ632_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'PROJ632' est nommé 'PROJ632_INGE_TDG_8_2h' dans ADE au lieu de 'PROJ632_IDU_INGE_TDG_8_2h' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA732_INGE_CM",
+      "source_2": "DATA732_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'DATA732' est nommé 'DATA732_INGE_CM' dans ADE au lieu de 'DATA732_IDU_INGE_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC931_TP",
+      "source_2": "ISOC931_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC931' est nommé 'ISOC931_TP' dans ADE au lieu de 'ISOC931_IDU_TP' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "TP INFO932",
+      "source_2": "INFO932_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO932' est nommé 'TP INFO932' dans ADE au lieu de 'TP INFO932_IDU' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO732_INGE_TP1",
+      "source_2": "INFO732_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO732' est nommé 'INFO732_INGE_TP1' dans ADE au lieu de 'INFO732_IDU_INGE_TP1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO832_INGE_TPTD",
+      "source_2": "INFO832_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO832' est nommé 'INFO832_INGE_TPTD' dans ADE au lieu de 'INFO832_IDU_INGE_TPTD' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_P04_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_P04_G2' dans ADE au lieu de 'INFO633_IDU_P04_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC931_CM",
+      "source_2": "ISOC931_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC931' est nommé 'ISOC931_CM' dans ADE au lieu de 'ISOC931_IDU_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA832_INGE_TPTD_2h",
+      "source_2": "DATA832_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'DATA832' est nommé 'DATA832_INGE_TPTD_2h' dans ADE au lieu de 'DATA832_IDU_INGE_TPTD_2h' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC831_Sopra_Consultant",
+      "source_2": "ISOC831_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC831' est nommé 'ISOC831_Sopra_Consultant' dans ADE au lieu de 'ISOC831_IDU_Sopra_Consultant' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_P03_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_P03_G2' dans ADE au lieu de 'INFO633_IDU_P03_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC531_TPG1",
+      "source_2": "ISOC531_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC531' est nommé 'ISOC531_TPG1' dans ADE au lieu de 'ISOC531_IDU_TPG1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A09_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A09_G1' dans ADE au lieu de 'INFO633_IDU_A09_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "TP INFO931",
+      "source_2": "INFO931_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO931' est nommé 'TP INFO931' dans ADE au lieu de 'TP INFO931_IDU' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO834_INGE_TP1",
+      "source_2": "INFO834_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO834' est nommé 'INFO834_INGE_TP1' dans ADE au lieu de 'INFO834_IDU_INGE_TP1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A13_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A13_G1' dans ADE au lieu de 'INFO633_IDU_A13_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A12_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A12_G2' dans ADE au lieu de 'INFO633_IDU_A12_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_CC4_Tiers-temps",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_CC4_Tiers-temps' dans ADE au lieu de 'INFO633_IDU_CC4_Tiers-temps' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO831_INGE_TD",
+      "source_2": "INFO831_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO831' est nommé 'INFO831_INGE_TD' dans ADE au lieu de 'INFO831_IDU_INGE_TD' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A06_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A06_G2' dans ADE au lieu de 'INFO633_IDU_A06_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO632_INGE_TDG",
+      "source_2": "INFO632_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO632' est nommé 'INFO632_INGE_TDG' dans ADE au lieu de 'INFO632_IDU_INGE_TDG' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO632_INGE_CM",
+      "source_2": "INFO632_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO632' est nommé 'INFO632_INGE_CM' dans ADE au lieu de 'INFO632_IDU_INGE_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_P04_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_P04_G1' dans ADE au lieu de 'INFO633_IDU_P04_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA931_TP",
+      "source_2": "DATA931_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'DATA931' est nommé 'DATA931_TP' dans ADE au lieu de 'DATA931_IDU_TP' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A11_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A11_G2' dans ADE au lieu de 'INFO633_IDU_A11_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO731_INGE_CM",
+      "source_2": "INFO731_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO731' est nommé 'INFO731_INGE_CM' dans ADE au lieu de 'INFO731_IDU_INGE_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "MATH531_TDG_1-5",
+      "source_2": "MATH531_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'MATH531' est nommé 'MATH531_TDG_1-5' dans ADE au lieu de 'MATH531_IDU_TDG_1-5' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_CC1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_CC1' dans ADE au lieu de 'INFO633_IDU_CC1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO834_INGE_CM",
+      "source_2": "INFO834_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO834' est nommé 'INFO834_INGE_CM' dans ADE au lieu de 'INFO834_IDU_INGE_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "PROJ531_TDG_3",
+      "source_2": "PROJ531_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'PROJ531' est nommé 'PROJ531_TDG_3' dans ADE au lieu de 'PROJ531_IDU_TDG_3' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A08_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A08_G1' dans ADE au lieu de 'INFO633_IDU_A08_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA832_INGE_TPPTD_2h",
+      "source_2": "DATA832_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'DATA832' est nommé 'DATA832_INGE_TPPTD_2h' dans ADE au lieu de 'DATA832_IDU_INGE_TPPTD_2h' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "PROJ831_INGE_Auto",
+      "source_2": "PROJ831_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'PROJ831' est nommé 'PROJ831_INGE_Auto' dans ADE au lieu de 'PROJ831_IDU_INGE_Auto' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A10_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A10_G1' dans ADE au lieu de 'INFO633_IDU_A10_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "PROJ531_TPG2",
+      "source_2": "PROJ531_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'PROJ531' est nommé 'PROJ531_TPG2' dans ADE au lieu de 'PROJ531_IDU_TPG2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC931_TP_BU",
+      "source_2": "ISOC931_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC931' est nommé 'ISOC931_TP_BU' dans ADE au lieu de 'ISOC931_IDU_TP_BU' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC631_INGE_TDG",
+      "source_2": "ISOC631_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC631' est nommé 'ISOC631_INGE_TDG' dans ADE au lieu de 'ISOC631_IDU_INGE_TDG' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "PROJ531_TPG1",
+      "source_2": "PROJ531_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'PROJ531' est nommé 'PROJ531_TPG1' dans ADE au lieu de 'PROJ531_IDU_TPG1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A03_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A03_G2' dans ADE au lieu de 'INFO633_IDU_A03_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A11_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A11_G1' dans ADE au lieu de 'INFO633_IDU_A11_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC831_Ingénieur BI",
+      "source_2": "ISOC831_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC831' est nommé 'ISOC831_Ingénieur BI' dans ADE au lieu de 'ISOC831_IDU_Ingénieur BI' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "PROJ531_TDG_1",
+      "source_2": "PROJ531_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'PROJ531' est nommé 'PROJ531_TDG_1' dans ADE au lieu de 'PROJ531_IDU_TDG_1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO831_INGE_TP1",
+      "source_2": "INFO831_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO831' est nommé 'INFO831_INGE_TP1' dans ADE au lieu de 'INFO831_IDU_INGE_TP1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO831_INGE_Exam",
+      "source_2": "INFO831_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO831' est nommé 'INFO831_INGE_Exam' dans ADE au lieu de 'INFO831_IDU_INGE_Exam' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "CM INFO931",
+      "source_2": "INFO931_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO931' est nommé 'CM INFO931' dans ADE au lieu de 'CM INFO931_IDU' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A12_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A12_G1' dans ADE au lieu de 'INFO633_IDU_A12_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA831_INGE_CM",
+      "source_2": "DATA831_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'DATA831' est nommé 'DATA831_INGE_CM' dans ADE au lieu de 'DATA831_IDU_INGE_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA732_INGE_Proj",
+      "source_2": "DATA732_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'DATA732' est nommé 'DATA732_INGE_Proj' dans ADE au lieu de 'DATA732_IDU_INGE_Proj' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "TD INFO932",
+      "source_2": "INFO932_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO932' est nommé 'TD INFO932' dans ADE au lieu de 'TD INFO932_IDU' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA731_INGE_CM",
+      "source_2": "DATA731_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'DATA731' est nommé 'DATA731_INGE_CM' dans ADE au lieu de 'DATA731_IDU_INGE_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA732_INGE_TD",
+      "source_2": "DATA732_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'DATA732' est nommé 'DATA732_INGE_TD' dans ADE au lieu de 'DATA732_IDU_INGE_TD' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO501_ET_2emeSession_tiersTemps",
+      "source_2": "INFO501_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO501' est nommé 'INFO501_ET_2emeSession_tiersTemps' dans ADE au lieu de 'INFO501_IDU_ET_2emeSession_tiersTemps' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "MATH531_TDG_6-8",
+      "source_2": "MATH531_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'MATH531' est nommé 'MATH531_TDG_6-8' dans ADE au lieu de 'MATH531_IDU_TDG_6-8' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A09_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A09_G2' dans ADE au lieu de 'INFO633_IDU_A09_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_P01_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_P01_G2' dans ADE au lieu de 'INFO633_IDU_P01_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO502_TPG2",
+      "source_2": "INFO502_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO502' est nommé 'INFO502_TPG2' dans ADE au lieu de 'INFO502_IDU_TPG2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A04_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A04_G2' dans ADE au lieu de 'INFO633_IDU_A04_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC631_INGE_TPG2",
+      "source_2": "ISOC631_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC631' est nommé 'ISOC631_INGE_TPG2' dans ADE au lieu de 'ISOC631_IDU_INGE_TPG2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC531_TPG2",
+      "source_2": "ISOC531_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC531' est nommé 'ISOC531_TPG2' dans ADE au lieu de 'ISOC531_IDU_TPG2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A16_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A16_G2' dans ADE au lieu de 'INFO633_IDU_A16_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC631_INGE_CM",
+      "source_2": "ISOC631_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC631' est nommé 'ISOC631_INGE_CM' dans ADE au lieu de 'ISOC631_IDU_INGE_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC831_Sopra_AdminLinux",
+      "source_2": "ISOC831_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC831' est nommé 'ISOC831_Sopra_AdminLinux' dans ADE au lieu de 'ISOC831_IDU_Sopra_AdminLinux' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "PROJ731_INGE_APP",
+      "source_2": "PROJ731_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'PROJ731' est nommé 'PROJ731_INGE_APP' dans ADE au lieu de 'PROJ731_IDU_INGE_APP' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "MATH531_CM8-Exam_TiersTps",
+      "source_2": "MATH531_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'MATH531' est nommé 'MATH531_CM8-Exam_TiersTps' dans ADE au lieu de 'MATH531_IDU_CM8-Exam_TiersTps' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO831_INGE_CM",
+      "source_2": "INFO831_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO831' est nommé 'INFO831_INGE_CM' dans ADE au lieu de 'INFO831_IDU_INGE_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO501_ET_SNI-IDU_tier_tps",
+      "source_2": "INFO501_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO501' est nommé 'INFO501_ET_SNI-IDU_tier_tps' dans ADE au lieu de 'INFO501_IDU_ET_SNI-IDU_tier_tps' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "PROJ832_INGE_CM",
+      "source_2": "PROJ832_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'PROJ832' est nommé 'PROJ832_INGE_CM' dans ADE au lieu de 'PROJ832_IDU_INGE_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO631_INGE_CM",
+      "source_2": "INFO631_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO631' est nommé 'INFO631_INGE_CM' dans ADE au lieu de 'INFO631_IDU_INGE_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA931_CM",
+      "source_2": "DATA931_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'DATA931' est nommé 'DATA931_CM' dans ADE au lieu de 'DATA931_IDU_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO502_TPG1",
+      "source_2": "INFO502_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO502' est nommé 'INFO502_TPG1' dans ADE au lieu de 'INFO502_IDU_TPG1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO501_ET_SNI-IDU",
+      "source_2": "INFO501_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO501' est nommé 'INFO501_ET_SNI-IDU' dans ADE au lieu de 'INFO501_IDU_ET_SNI-IDU' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "PROJ832_INGE_Projet",
+      "source_2": "PROJ832_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'PROJ832' est nommé 'PROJ832_INGE_Projet' dans ADE au lieu de 'PROJ832_IDU_INGE_Projet' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A01_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A01_G1' dans ADE au lieu de 'INFO633_IDU_A01_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC531_TDG",
+      "source_2": "ISOC531_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC531' est nommé 'ISOC531_TDG' dans ADE au lieu de 'ISOC531_IDU_TDG' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO832_INGE_CM",
+      "source_2": "INFO832_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO832' est nommé 'INFO832_INGE_CM' dans ADE au lieu de 'INFO832_IDU_INGE_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_CC2_Tiers-temps",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_CC2_Tiers-temps' dans ADE au lieu de 'INFO633_IDU_CC2_Tiers-temps' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO502_Ex_session2_tier_tps",
+      "source_2": "INFO502_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO502' est nommé 'INFO502_Ex_session2_tier_tps' dans ADE au lieu de 'INFO502_IDU_Ex_session2_tier_tps' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_P02_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_P02_G1' dans ADE au lieu de 'INFO633_IDU_P02_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO502_TDG",
+      "source_2": "INFO502_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO502' est nommé 'INFO502_TDG' dans ADE au lieu de 'INFO502_IDU_TDG' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "CM INFO932",
+      "source_2": "INFO932_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO932' est nommé 'CM INFO932' dans ADE au lieu de 'CM INFO932_IDU' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A05_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A05_G2' dans ADE au lieu de 'INFO633_IDU_A05_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A15_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A15_G1' dans ADE au lieu de 'INFO633_IDU_A15_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_CC2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_CC2' dans ADE au lieu de 'INFO633_IDU_CC2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA931_TD",
+      "source_2": "DATA931_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'DATA931' est nommé 'DATA931_TD' dans ADE au lieu de 'DATA931_IDU_TD' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC531_CM",
+      "source_2": "ISOC531_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC531' est nommé 'ISOC531_CM' dans ADE au lieu de 'ISOC531_IDU_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA831_INGE_TDTP",
+      "source_2": "DATA831_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'DATA831' est nommé 'DATA831_INGE_TDTP' dans ADE au lieu de 'DATA831_IDU_INGE_TDTP' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO501_TPPG",
+      "source_2": "INFO501_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO501' est nommé 'INFO501_TPPG' dans ADE au lieu de 'INFO501_IDU_TPPG' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO502_Ex_Tiers_Temps",
+      "source_2": "INFO502_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO502' est nommé 'INFO502_Ex_Tiers_Temps' dans ADE au lieu de 'INFO502_IDU_Ex_Tiers_Temps' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "MATH531_CM8-exam",
+      "source_2": "MATH531_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'MATH531' est nommé 'MATH531_CM8-exam' dans ADE au lieu de 'MATH531_IDU_CM8-exam' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A16_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A16_G1' dans ADE au lieu de 'INFO633_IDU_A16_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "PROJ932_eval",
+      "source_2": "PROJ932_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'PROJ932' est nommé 'PROJ932_eval' dans ADE au lieu de 'PROJ932_IDU_eval' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_CC3",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_CC3' dans ADE au lieu de 'INFO633_IDU_CC3' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A13_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A13_G2' dans ADE au lieu de 'INFO633_IDU_A13_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO631_INGE_CT",
+      "source_2": "INFO631_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO631' est nommé 'INFO631_INGE_CT' dans ADE au lieu de 'INFO631_IDU_INGE_CT' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC931_TP_Restitution",
+      "source_2": "ISOC931_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC931' est nommé 'ISOC931_TP_Restitution' dans ADE au lieu de 'ISOC931_IDU_TP_Restitution' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A02_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A02_G2' dans ADE au lieu de 'INFO633_IDU_A02_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A07_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A07_G1' dans ADE au lieu de 'INFO633_IDU_A07_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC731_INGE_Proj",
+      "source_2": "ISOC731_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC731' est nommé 'ISOC731_INGE_Proj' dans ADE au lieu de 'ISOC731_IDU_INGE_Proj' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO732_INGE_EX",
+      "source_2": "INFO732_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO732' est nommé 'INFO732_INGE_EX' dans ADE au lieu de 'INFO732_IDU_INGE_EX' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO631_INGE_TPG2",
+      "source_2": "INFO631_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO631' est nommé 'INFO631_INGE_TPG2' dans ADE au lieu de 'INFO631_IDU_INGE_TPG2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC931_TD",
+      "source_2": "ISOC931_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC931' est nommé 'ISOC931_TD' dans ADE au lieu de 'ISOC931_IDU_TD' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO501_CM_SNI-IDU",
+      "source_2": "INFO501_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO501' est nommé 'INFO501_CM_SNI-IDU' dans ADE au lieu de 'INFO501_IDU_CM_SNI-IDU' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "PROJ531_TDG_4",
+      "source_2": "PROJ531_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'PROJ531' est nommé 'PROJ531_TDG_4' dans ADE au lieu de 'PROJ531_IDU_TDG_4' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO832_INGE_Exam",
+      "source_2": "INFO832_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO832' est nommé 'INFO832_INGE_Exam' dans ADE au lieu de 'INFO832_IDU_INGE_Exam' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A05_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A05_G1' dans ADE au lieu de 'INFO633_IDU_A05_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO631_INGE_CT_1/3_Temps",
+      "source_2": "INFO631_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO631' est nommé 'INFO631_INGE_CT_1/3_Temps' dans ADE au lieu de 'INFO631_IDU_INGE_CT_1/3_Temps' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "DATA832_INGE_CM",
+      "source_2": "DATA832_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'DATA832' est nommé 'DATA832_INGE_CM' dans ADE au lieu de 'DATA832_IDU_INGE_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO502_CM",
+      "source_2": "INFO502_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO502' est nommé 'INFO502_CM' dans ADE au lieu de 'INFO502_IDU_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "PROJ831_INGE_TPD",
+      "source_2": "PROJ831_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'PROJ831' est nommé 'PROJ831_INGE_TPD' dans ADE au lieu de 'PROJ831_IDU_INGE_TPD' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_CC4",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_CC4' dans ADE au lieu de 'INFO633_IDU_CC4' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_P01_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_P01_G1' dans ADE au lieu de 'INFO633_IDU_P01_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_CC3_Tiers-temps",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_CC3_Tiers-temps' dans ADE au lieu de 'INFO633_IDU_CC3_Tiers-temps' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO833_INGE_TD",
+      "source_2": "INFO833_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO833' est nommé 'INFO833_INGE_TD' dans ADE au lieu de 'INFO833_IDU_INGE_TD' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO732_INGE_TD",
+      "source_2": "INFO732_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO732' est nommé 'INFO732_INGE_TD' dans ADE au lieu de 'INFO732_IDU_INGE_TD' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "PROJ632_INGE_TDG_1-7_4h",
+      "source_2": "PROJ632_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'PROJ632' est nommé 'PROJ632_INGE_TDG_1-7_4h' dans ADE au lieu de 'PROJ632_IDU_INGE_TDG_1-7_4h' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "MATH531_TPG1",
+      "source_2": "MATH531_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'MATH531' est nommé 'MATH531_TPG1' dans ADE au lieu de 'MATH531_IDU_TPG1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A14_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A14_G2' dans ADE au lieu de 'INFO633_IDU_A14_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC831_Sopra_PowerBI",
+      "source_2": "ISOC831_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC831' est nommé 'ISOC831_Sopra_PowerBI' dans ADE au lieu de 'ISOC831_IDU_Sopra_PowerBI' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO833_INGE_TP1",
+      "source_2": "INFO833_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO833' est nommé 'INFO833_INGE_TP1' dans ADE au lieu de 'INFO833_IDU_INGE_TP1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "TD INFO931",
+      "source_2": "INFO931_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO931' est nommé 'TD INFO931' dans ADE au lieu de 'TD INFO931_IDU' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO732_INGE_CM",
+      "source_2": "INFO732_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO732' est nommé 'INFO732_INGE_CM' dans ADE au lieu de 'INFO732_IDU_INGE_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO732_INGE_EX_TIERS_TEMPS",
+      "source_2": "INFO732_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO732' est nommé 'INFO732_INGE_EX_TIERS_TEMPS' dans ADE au lieu de 'INFO732_IDU_INGE_EX_TIERS_TEMPS' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A02_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A02_G1' dans ADE au lieu de 'INFO633_IDU_A02_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO632_INGE_TPG1",
+      "source_2": "INFO632_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO632' est nommé 'INFO632_INGE_TPG1' dans ADE au lieu de 'INFO632_IDU_INGE_TPG1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "ISOC831_Product_Management",
+      "source_2": "ISOC831_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'ISOC831' est nommé 'ISOC831_Product_Management' dans ADE au lieu de 'ISOC831_IDU_Product_Management' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A14_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A14_G1' dans ADE au lieu de 'INFO633_IDU_A14_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO501_TDG",
+      "source_2": "INFO501_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO501' est nommé 'INFO501_TDG' dans ADE au lieu de 'INFO501_IDU_TDG' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO502_Ex_Session2",
+      "source_2": "INFO502_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO502' est nommé 'INFO502_Ex_Session2' dans ADE au lieu de 'INFO502_IDU_Ex_Session2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "MATH531_CM",
+      "source_2": "MATH531_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'MATH531' est nommé 'MATH531_CM' dans ADE au lieu de 'MATH531_IDU_CM' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A04_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A04_G1' dans ADE au lieu de 'INFO633_IDU_A04_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "PROJ531_TDG_2",
+      "source_2": "PROJ531_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'PROJ531' est nommé 'PROJ531_TDG_2' dans ADE au lieu de 'PROJ531_IDU_TDG_2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO731_INGE_CMEX",
+      "source_2": "INFO731_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO731' est nommé 'INFO731_INGE_CMEX' dans ADE au lieu de 'INFO731_IDU_INGE_CMEX' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_A03_G1",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_A03_G1' dans ADE au lieu de 'INFO633_IDU_A03_G1' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO834_INGE_TD",
+      "source_2": "INFO834_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO834' est nommé 'INFO834_INGE_TD' dans ADE au lieu de 'INFO834_IDU_INGE_TD' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    },
+    {
+      "source_1": "INFO633_P02_G2",
+      "source_2": "INFO633_IDU",
+      "axe": "normalisation_codes",
+      "description": "Le module 'INFO633' est nommé 'INFO633_P02_G2' dans ADE au lieu de 'INFO633_IDU_P02_G2' (forme cohérente avec la maquette)",
+      "criticite": "majeur"
+    }
+  ]
+}
